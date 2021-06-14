@@ -1,0 +1,5 @@
+CREATE DATABASE db_patrimonio
+    WITH 
+    OWNER = [USUARIO_BANCO]
+    ENCODING = 'UTF8'
+    CONNECTION LIMIT = -1;
